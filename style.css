@@ -1,0 +1,34 @@
+.page {
+    text-align: center;
+}
+
+.front-page{
+    width: 400px;
+    height: auto;
+}
+
+.menu {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+a:visited {
+    color: darkolivegreen;
+}
+
+h1,
+h2,
+.menu {
+    color: darkolivegreen;    
+}
+
+p{
+    font-size: 18px;
+}
+
+ol,
+ul {
+    text-align: left;
+}
